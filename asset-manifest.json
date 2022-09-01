@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/web-erp-page/static/css/main.3b3716a5.css",
-    "main.js": "/web-erp-page/static/js/main.2d270baa.js",
+    "main.js": "/web-erp-page/static/js/main.d8b3e635.js",
     "static/js/787.8d8e3ff7.chunk.js": "/web-erp-page/static/js/787.8d8e3ff7.chunk.js",
     "static/media/about-image.png": "/web-erp-page/static/media/about-image.615296e8953e21adb5e9.png",
     "static/media/info-image.png": "/web-erp-page/static/media/info-image.b0eb724099b22b373e22.png",
@@ -19,11 +19,11 @@
     "static/media/OPPO 1.png": "/web-erp-page/static/media/OPPO 1.2b86bc2a93999960f3b5.png",
     "index.html": "/web-erp-page/index.html",
     "main.3b3716a5.css.map": "/web-erp-page/static/css/main.3b3716a5.css.map",
-    "main.2d270baa.js.map": "/web-erp-page/static/js/main.2d270baa.js.map",
+    "main.d8b3e635.js.map": "/web-erp-page/static/js/main.d8b3e635.js.map",
     "787.8d8e3ff7.chunk.js.map": "/web-erp-page/static/js/787.8d8e3ff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b3716a5.css",
-    "static/js/main.2d270baa.js"
+    "static/js/main.d8b3e635.js"
   ]
 }
