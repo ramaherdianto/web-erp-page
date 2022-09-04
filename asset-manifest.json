@@ -1,11 +1,15 @@
 {
   "files": {
-    "main.css": "/web-erp-page/static/css/main.60496929.css",
-    "main.js": "/web-erp-page/static/js/main.a324221b.js",
+    "main.css": "/web-erp-page/static/css/main.fd51cc0c.css",
+    "main.js": "/web-erp-page/static/js/main.7eeb10b1.js",
     "static/js/787.8d8e3ff7.chunk.js": "/web-erp-page/static/js/787.8d8e3ff7.chunk.js",
+    "static/media/testimoni-3.jpg": "/web-erp-page/static/media/testimoni-3.7f75303f0a17cfd7d9f8.jpg",
+    "static/media/testimoni-4.jpg": "/web-erp-page/static/media/testimoni-4.0fafd7abf60f4f234353.jpg",
     "static/media/about-image.png": "/web-erp-page/static/media/about-image.615296e8953e21adb5e9.png",
+    "static/media/testimoni-1.png": "/web-erp-page/static/media/testimoni-1.d129b47fcaa5a51bd05d.png",
     "static/media/info-image.png": "/web-erp-page/static/media/info-image.b0eb724099b22b373e22.png",
     "static/media/hero.png": "/web-erp-page/static/media/hero.1844b2684da926cd1918.png",
+    "static/media/testimoni-2.jpg": "/web-erp-page/static/media/testimoni-2.e33adb344a842116f077.jpg",
     "static/media/ITB 1.png": "/web-erp-page/static/media/ITB 1.9c73817f445e0e0ffd82.png",
     "static/media/logo-ayana 1.png": "/web-erp-page/static/media/logo-ayana 1.3a435f85e7f996bdc76e.png",
     "static/media/Telkom 1.png": "/web-erp-page/static/media/Telkom 1.d16a406ff254e9370de6.png",
@@ -18,12 +22,12 @@
     "static/media/IKEA 1.png": "/web-erp-page/static/media/IKEA 1.13b1d8835ee9e925b770.png",
     "static/media/OPPO 1.png": "/web-erp-page/static/media/OPPO 1.2b86bc2a93999960f3b5.png",
     "index.html": "/web-erp-page/index.html",
-    "main.60496929.css.map": "/web-erp-page/static/css/main.60496929.css.map",
-    "main.a324221b.js.map": "/web-erp-page/static/js/main.a324221b.js.map",
+    "main.fd51cc0c.css.map": "/web-erp-page/static/css/main.fd51cc0c.css.map",
+    "main.7eeb10b1.js.map": "/web-erp-page/static/js/main.7eeb10b1.js.map",
     "787.8d8e3ff7.chunk.js.map": "/web-erp-page/static/js/787.8d8e3ff7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60496929.css",
-    "static/js/main.a324221b.js"
+    "static/css/main.fd51cc0c.css",
+    "static/js/main.7eeb10b1.js"
   ]
 }
